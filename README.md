@@ -17,7 +17,9 @@ Utilizei o ChatGPT para revisar minha pesquisa sobre IAs Generativas, estruturar
 ## 🚀 Resultados
 Este e-book combina conteúdo envolvente com recursos visuais impactantes, revelando como as IAs Generativas podem revolucionar a educação e ampliar o acesso ao conhecimento.
 
-## 💭 Reflexão (Opcional)
+https://github.com/Andersonlsilvas/lab-natty-or-not/blob/main/Introdu%C3%A7%C3%A3o%20%C3%A1%20IA.pdf
+
+## 💭 Reflexão
 
 Desenvolver este e-book foi uma experiência enriquecedora, destacando o imenso potencial criativo das IAs e suas diversas aplicações em diferentes áreas
 
